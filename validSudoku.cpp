@@ -1,3 +1,5 @@
+// there's better solutions but I wanted to use threads
+
 #include <thread>
 #include <atomic>
 #include <unordered_map>
